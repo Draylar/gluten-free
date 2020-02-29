@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "glutenfree:gluten_free_wheat"
+    }
+  },
+  "result": {
+    "item": "glutenfree:bread_gluten_free"
+  }
+}
