@@ -1,16 +1,21 @@
-# Fabric Example Mod
+# Gluten Free
 
-## Setup
+tired of being oppressed by Minecraft for your BELIEFS? The gluten free Minecraft mod has finally arrived. Now including several DYNAMIC, ENGADGING, CUSTOMIZABLE gluten free options for your MineCraft playthrough.
 
-1. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-2. Run the following command:
+gluten free bread
+![](https://i.imgur.com/jfk4Rpx.png)
 
-```
-./gradlew idea
-```
+wheat
+![](https://i.imgur.com/kmMWX7O.png)
+
+gluten free carrot
+![](https://i.imgur.com/5otceDU.png)
+
+
+## Customization
+
+To disable the mod, uninsatll it. To enable the mod, install it.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the ARR license. do not steal my code or sueing will occur
