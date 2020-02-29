@@ -40,4 +40,4 @@ To disable the mod, uninsatll it. To enable the mod, install it.
 
 ## Lic[![](https://jitpack.io/v/Draylar/gluten-free.svg)](https://jitpack.io/#Draylar/gluten-free)ense
 
-This template is available under the ARR license. do not steal my code or sueing will occur
+This template is available under the ARR license. do not steal my code or sewing will occur
